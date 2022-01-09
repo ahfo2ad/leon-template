@@ -141,9 +141,9 @@ html {
     right: 5px;
     top: -20px;
 }
-.header .links:hover ul {
+/* .header .links:hover ul {
     display: block;
-}
+} */
 .header .links ul a {
     display: block;
     padding: 15px;
